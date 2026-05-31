@@ -1,0 +1,7 @@
+pandas
+openai
+python-dotenv
+streamlit
+PyPDF2
+pdfplumber
+streamlit-option-menu
